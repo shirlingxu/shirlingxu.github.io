@@ -1,8 +1,13 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@import "{{ site.theme }}";
 
 img {
   border-radius: 5px;
+}
+
+.wrapper {
+  width:80%;
+  margin:0 auto;
 }
