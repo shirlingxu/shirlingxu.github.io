@@ -10,7 +10,7 @@ Previously, I interned as a Product Manager for three summers at [Microsoft Secu
 
 In my free time, I like to [take photos](https://www.instagram.com/shirlingpics/), write, draw, hike, and try new restaurants when I travel!
 
-[LinkedIn](http://linkedin.com/in/shirlingxu/) | [GitHub](https://github.com/shirlingxu) | [Medium](https://medium.com/@shirlingxu) | [GoodReads](https://www.goodreads.com/user/show/55404997-shirling-xu) | [YouTube](https://www.youtube.com/c/shirlingxu)
+[LinkedIn](http://linkedin.com/in/shirlingxu/) &#124; [GitHub](https://github.com/shirlingxu) &#124; [Medium](https://medium.com/@shirlingxu) &#124; [GoodReads](https://www.goodreads.com/user/show/55404997-shirling-xu) &#124; [YouTube](https://www.youtube.com/c/shirlingxu)
 
 ```
 shirlingxu [at] gatech.edu
