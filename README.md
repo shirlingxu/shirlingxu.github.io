@@ -1,6 +1,4 @@
-# About
-
-**Hey, I’m Shirling! 👋**
+## **Hey, I’m Shirling! 👋**
 
 I’m a senior studying Computer Science and Philosophy at Georgia Tech. I like working at the intersection of tech, policy, and design to solve challenges in security and sustainable development. 
 
