@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+.wrapper {
+  width:80%;
+  margin:0 auto;
+}
+
 img {
   border-radius: 5px;
   width:65%;
