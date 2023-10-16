@@ -10,8 +10,10 @@
   }
 } 
 
+@media only screen and (max-width: 960px)
 header {
-  margin: 0 auto;
+    float: none;
+    text-align: center;
 }
 
 img {
