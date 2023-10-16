@@ -3,12 +3,12 @@
 
 @import "{{ site.theme }}";
 
-@media only screen and (min-width: 1440px) {
-  section {
-    width:70%;
-    position: relative;
-  }
-} 
+
+section {
+  width:70%;
+  position: relative;
+}
+
 
 @media print, screen and (max-width: 960px) {
     div.wrapper {
