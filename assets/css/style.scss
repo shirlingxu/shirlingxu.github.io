@@ -3,17 +3,21 @@
 
 @import "{{ site.theme }}";
 
-@media only screen and (min-width: 1025px) {
-  section {
-    width:70%;
-    position: relative;
-  }
-} 
+// @media only screen and (min-width: 1025px) {
+//   section {
+//     width:70%;
+//     position: relative;
+//   }
+// } 
 
 img {
   border-radius: 5px;
   width:60%;
   height:60%;
+}
+
+header {
+  width:60%;
 }
 
 h1 {
