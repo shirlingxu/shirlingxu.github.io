@@ -3,16 +3,10 @@
 
 @import "{{ site.theme }}";
 
-// @media only screen and (min-width: 1025px) {
-//   section {
-//     width:70%;
-//     position: relative;
-//   }
-// } 
-
 @media only screen and (min-width: 1025px) {
-  header {
-    width:60%;
+  section {
+    width:70%;
+    position: relative;
   }
 } 
 
