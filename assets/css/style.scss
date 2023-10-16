@@ -10,14 +10,16 @@
 //   }
 // } 
 
+@media only screen and (min-width: 1025px) {
+  header {
+    width:60%;
+  }
+} 
+
 img {
   border-radius: 5px;
   width:60%;
   height:60%;
-}
-
-header {
-  width:60%;
 }
 
 h1 {
