@@ -10,10 +10,11 @@
   }
 } 
 
-@media only screen and (max-width: 960px)
-header {
+@media only screen and (max-width: 960px) {
+  header {
     float: none;
     text-align: center;
+  }
 }
 
 img {
