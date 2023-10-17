@@ -2,7 +2,7 @@
 
 I’m a senior studying Computer Science and Philosophy at Georgia Tech. I like working at the intersection of tech, policy, and design to solve challenges in security and sustainable development. 
 
-I’m interested in responsible AI & data privacy research and education, and I'm currently building a project that helps teach high school/college students about tech ethics. 
+I’m interested in responsible AI & data security/privacy research and education, and I'm currently building a project that helps teach people about tech ethics. 
 
 Previously, I interned as a Product Manager for three summers at [Microsoft Security](https://www.microsoft.com/en-us/security/business/microsoft-entra). I also worked on research for the U.S. Department of Homeland Security, where I designed and developed an infrastructure risk assessment modeling & simulation software.
 
