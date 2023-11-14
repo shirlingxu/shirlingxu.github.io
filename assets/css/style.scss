@@ -3,9 +3,9 @@
 
 @import "{{ site.theme }}";
 
-body {
-  background-color:#F4F1EE;
-}
+// body {
+//   background-color:#F4F1EE;
+// }
 
 section {
   width:70%;
@@ -13,7 +13,7 @@ section {
 }
 
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1440px) {
     div.wrapper {
         width:auto;
         margin: 0
@@ -42,7 +42,7 @@ section {
     }
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1440px) {
     body {
         word-wrap:break-word
     }
