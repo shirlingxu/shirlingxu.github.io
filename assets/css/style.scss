@@ -9,7 +9,12 @@
 
 section {
   width:70%;
-  position: relative;
+  position: fixed;
+  margin:50px;
+}
+
+header {
+  display:none;
 }
 
 @media print, screen and (max-width: 960px) {
