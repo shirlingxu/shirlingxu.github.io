@@ -12,6 +12,9 @@ section {
   position: relative;
 }
 
+p .view {
+  display:none;
+}
 
 @media print, screen and (max-width: 960px) {
     div.wrapper {
