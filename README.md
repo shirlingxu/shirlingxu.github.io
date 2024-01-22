@@ -4,9 +4,9 @@ I’m a senior studying Computer Science at Georgia Tech. I like working at the 
 
 I’m interested in responsible AI, security/privacy, and computational linguistics research & education. I'm currently building Fair Data Project, an organization that teaches people about tech ethics.
 
-Previously, I interned as a Product Manager for three summers at [Microsoft Security](https://www.microsoft.com/en-us/security/business/microsoft-entra). I also worked on research for the U.S. Department of Homeland Security, where I designed and developed an infrastructure risk assessment modeling & simulation software.
+Previously, I interned as a Product Manager for three summers at [Microsoft](https://www.microsoft.com/en-us/security/business/microsoft-entra). I also worked on research for the U.S. Department of Homeland Security, where I designed and developed an infrastructure risk assessment modeling & simulation software.
 
-In my free time, I like to [take photos](https://www.instagram.com/shirlingpics/), write, draw, hike, and try new restaurants when I travel!
+In my free time, I enjoy [taking photos](https://www.instagram.com/shirlingpics/), reading, long-distance running, hiking, and trying new cafes and restaurants!
 
 [LinkedIn](http://linkedin.com/in/shirlingxu/) &#124; [Medium](https://medium.com/@shirlingxu) &#124; [GoodReads](https://www.goodreads.com/user/show/55404997-shirling-xu) &#124; [YouTube](https://www.youtube.com/c/shirlingxu)
 
