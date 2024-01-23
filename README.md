@@ -6,7 +6,7 @@ I’m interested in responsible AI, security/privacy, and computational linguist
 
 Previously, I interned as a Product Manager for three summers at [Microsoft](https://www.microsoft.com/en-us/security/business/microsoft-entra). I also worked on research for the U.S. Department of Homeland Security, where I designed and developed an infrastructure risk assessment modeling & simulation software.
 
-In my free time, I like [taking photos](https://www.instagram.com/shirlingpics/), [film-making](https://www.youtube.com/c/shirlingxu), [reading](https://www.goodreads.com/user/show/55404997-shirling-xu), [writing](https://medium.com/@shirlingxu), long-distance running, hiking, and trying new cafes and restaurants.
+In my free time, I like [taking photos](https://www.instagram.com/shirlingpics/), [filmmaking](https://www.youtube.com/c/shirlingxu), [reading](https://www.goodreads.com/user/show/55404997-shirling-xu), [writing](https://medium.com/@shirlingxu), long-distance running, hiking, and trying new cafes and restaurants.
 
 [LinkedIn](http://linkedin.com/in/shirlingxu/)
 
