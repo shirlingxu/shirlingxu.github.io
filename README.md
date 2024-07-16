@@ -9,5 +9,5 @@ In my free time, I like [taking photos](https://www.instagram.com/shirlingpics/)
 [LinkedIn](http://linkedin.com/in/shirlingxu/)
 
 ```
-shirlingxu [at] gatech.edu
+shirling.xu [at] gmail.com
 ```
