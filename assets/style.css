@@ -1,11 +1,17 @@
 body {
-  background-color: #fbf3e6;
-  color: #2b2118;
   font-family: "EB Garamond", serif;
-  line-height: 1.7;
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+  line-height: 1.7; 
+  min-height: 100vh;
+  background-color: #fbf3e6;
+  margin: 0;
+}
+
+main {
   max-width: 700px;
-  margin: 60px auto;
-  padding: 0 20px;
+  padding: 2rem;
 }
 
 h1, h2, h3 {
