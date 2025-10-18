@@ -10,6 +10,6 @@ I live in New York City. In my free time, I like [taking pictures](https://www.i
 
 [Email](mailto:shirlingxu@gmail.com)   
 
-Instagram [@shirlingxu](https://www.instagram.com/shirlingxu)   
-Github [@shirlingxu](https://www.github.com/shirlingxu)  
 Linkedin [@shirlingxu](https://www.linkedin.com/in/shirlingxu)  
+Github [@shirlingxu](https://www.github.com/shirlingxu)  
+Instagram [@shirlingxu](https://www.instagram.com/shirlingxu)   
